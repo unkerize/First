@@ -1,2 +1,4 @@
 1. Use resonance
 2. Use SIC elements
+3. Pcb designing
+
