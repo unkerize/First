@@ -1,4 +1,6 @@
 1. Use resonance
 2. Use SIC elements
 3. Pcb designing
+4. Snubb optimization
+
 
