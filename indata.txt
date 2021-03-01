@@ -1,0 +1,3 @@
+Vin   110VDC: 90..140VDC
+Vout  48VDC
+Iout  24A
