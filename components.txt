@@ -1,3 +1,4 @@
 Pri: IPP110N20
 Sec  STTH6012W
 Control: STM32F
+Rectifier: Sic
